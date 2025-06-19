@@ -8,7 +8,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline for COVID-1
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-  ## 📂 Project Files
+  ## Project Files
 - `covid_etl_project.ipynb`: Main notebook with ETL and visualization
 - `malaysia_covid_clean.csv`: Cleaned Malaysia COVID-19 dataset
 
@@ -25,7 +25,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline for COVID-1
 3. Run all cells step by step
 4. Optional: Modify code to explore other insights or regions
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 ### New Cases with 7-Day Average
 ![New Cases Plot](daily_new_cases.png)
