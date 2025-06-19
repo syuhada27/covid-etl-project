@@ -27,7 +27,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline for COVID-1
 
 ## 📊 Sample Visualizations
 
-### Daily New Cases with 7-Day Average
+### New Cases with 7-Day Average
 ![New Cases Plot](daily_new_cases.png)
 
 ### Correlation Heatmap
