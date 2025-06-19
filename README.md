@@ -24,3 +24,11 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline for COVID-1
 2. Open the notebook using Jupyter Notebook or VS Code
 3. Run all cells step by step
 4. Optional: Modify code to explore other insights or regions
+
+## 📊 Sample Visualizations
+
+### Daily New Cases with 7-Day Average
+![New Cases Plot](daily_new_cases.png)
+
+### Correlation Heatmap
+![Heatmap](correlation_heatmap.png)
