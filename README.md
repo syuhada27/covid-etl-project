@@ -32,3 +32,6 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline for COVID-1
 
 ### Correlation Heatmap
 ![Heatmap](correlation_heatmap.png)
+
+### Cumulative Cases and Deaths in Malaysia
+![Cumulative](cumulative_cases_death.png)
